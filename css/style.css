@@ -1,0 +1,106 @@
+*{
+    margin:0 0;
+    padding: 0 0;
+}
+*{
+    font-family:Bebas Neue ;
+}
+
+.header{
+    background-color:midnightblue;
+    text-align: center;
+    color:white;
+    font-size: 30px;
+
+}
+.banner-puppy{
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:20px;
+}
+.puppies-section{
+    display :flex;
+    justify-content:space-between; 
+    margin:0 auto;
+  
+    margin-bottom:30px;
+    width:960px;
+    
+}
+.section-3{
+    display :flex;
+    justify-content:space-between; 
+    margin: 0 auto;
+    
+    width:960px;
+}
+
+.puppy-1,.miss-puppy,.puppy-2{ 
+    width:33%;
+    height:auto;
+    
+}
+.puppy-1 img,.miss-puppy img,.puppy-2 img{
+    width:100%
+}
+.puppy-3{
+    margin-right:10px;
+    margin-left:10px;
+}
+.puppy-4{
+    margin-left:10px;
+    margin-right:10px;
+}
+.banner-puppy{
+    margin-bottom:84px;
+    
+}
+#banner-puppy img {
+    justify-content: center;
+    width:100%;
+    margin-bottom:30px;
+
+}
+
+.my-header{
+    color:white;
+    padding-top:27px;
+    padding-bottom:24px;
+    text-align: center;
+}
+.more-puppies{
+    color:black;
+    text-align: center;
+    font-size: 30px;
+    margin-bottom:30px;
+    
+}
+.miss-puppy{
+    
+    
+
+    width:310px;
+    height:310px;
+    background-color: #f04d65;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.footer{
+    background-color:midnightblue ;
+    padding-top:100px;
+    padding-bottom:125px;
+    margin-top:100px;
+    color:white;
+    text-align:center;
+    font-size:30px;
+}
+.missing{
+    font-size: 50px;
+    padding: 76px;
+    text-align: center;
+}
+
+
+
+
+
